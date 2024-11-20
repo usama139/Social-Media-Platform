@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "user": "Adil Malook",
+    "content": "This is my first post!",
+    "likes": 0,
+    "comments": [],
+    "shares": 0
+  },
+  {
+    "id": 2,
+    "user": "Raheem Thebo",
+    "content": "Hello, world!",
+    "likes": 0,
+    "comments": [],
+    "shares": 0
+  },
+  {
+    "id": 3,
+    "user": "Mahaveer",
+    "content": "Computer Science",
+    "likes": 0,
+    "comments": [],
+    "shares": 0
+  }
+]
